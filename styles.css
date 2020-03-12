@@ -80,6 +80,7 @@
 
 .point{
 	color: rgba(0, 0, 0, 0.6);
+	font-size: 12px;
 }
 
 .all-works-photos{
@@ -92,4 +93,8 @@
 .work-photo{
 	width: 364px;
   	height: 235px;
+}
+
+.text{
+	font-size: 12px;
 }
